@@ -1,2 +1,2 @@
 # my-scripts
-My personal and useful scripts.
+My personal and other useful scripts.
